@@ -1,0 +1,2 @@
+A global aerospace and transportation client faced a tight deadline to demonstrate the results of an object detection project. With the critical deadline looming, Zetane worked with the client to understand and explain how their data was influenced the machine learning model. This identified a major flaw in the model that was rectified on time and provided a remarkable and successful demonstration to decision-makers.
+
